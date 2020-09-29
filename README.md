@@ -1,7 +1,5 @@
 # My-Website
 
-This is a relaly awesome website
+This is a really awesome website
 
-New editing on update-readme branch
-
-Updated locally
+Updates made on master on GitHub before rebase
